@@ -1,4 +1,4 @@
-### Hi there 👋
+![https://img.shields.io/badge/Code%20is%20Science%20Manifesto-%E2%9C%93-brightgreen.svg](https://img.shields.io/badge/Code%20is%20Science%20Manifesto-%E2%9C%93-brightgreen.svg)
 
 <!--
 **mtav/mtav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
